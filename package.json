@@ -1,0 +1,12 @@
+{
+    "name": "naxmeify.brackets-mocha",
+    "title": "Mocha Testing inside of Brackets",
+    "description": "Testing files or whole project.",
+    "homepage": "https://github.com/naxmeify/brackets-mocha",
+    "version": "0.1.0",
+    "author": "MRW Neundorf <matt@nax.me> (http://github.com/naxmeify)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
