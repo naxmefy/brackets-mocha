@@ -1,0 +1,8 @@
+
+/* MOCHA TOOLBAR ICON */
+#brackets-mocha-toolbar-icon {background: url(icons/mocha-icons.png) no-repeat top left;}
+#brackets-mocha-toolbar-icon.sprite-blue{ background-position: 0 0; width: 24px; height: 24px; }
+#brackets-mocha-toolbar-icon.sprite-green{ background-position: 0 -25px; width: 24px; height: 24px; }
+#brackets-mocha-toolbar-icon.sprite-grey{ background-position: 0 -50px; width: 24px; height: 24px; }
+#brackets-mocha-toolbar-icon.sprite-red{ background-position: 0 -75px; width: 24px; height: 24px; }
+#brackets-mocha-toolbar-icon.sprite-yellow{ background-position: 0 -100px; width: 24px; height: 24px; }
