@@ -6,7 +6,8 @@
     "version": "0.1.0",
     "author": "MRW Neundorf <matt@nax.me> (http://github.com/naxmeify)",
     "license": "MIT",
+    "i18n": ["en", "en-gb"],
     "engines": {
-        "brackets": ">=0.24.0"
+        "brackets": ">=0.40.0"
     }
 }
